@@ -6,7 +6,7 @@ A proof of concept app for demonstrating authentication of Next.js app with JWT.
 
 The app is made under the assumption that the rendering server and the API server are decoupled.
 
-It uses [this API](https://github.com/alan2207/express-server-jwt) for authentication.
+It uses [this API](https://github.com/awesomedev08/express-server-jwt) for authentication.
 
 ![Demo](demo.gif?raw=true "Demo")
 
@@ -31,7 +31,7 @@ When the user makes a page request, cookies are also sent along, so the server c
 
 Make sure you have Node and NPM installed.
 
-Also make sure you have the [API server](https://github.com/alan2207/express-server-jwt) running.
+Also make sure you have the [API server](https://github.com/awesomedev08/express-server-jwt) running.
 
 ```bash
 git clone https://github.com/alan2207/nextjs-jwt-authentication
